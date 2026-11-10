@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "licenses": [
+    {
+      "key_hash": "bddc8a5835fcbe51bdb2566a6b104c57a97ba31be3604f4641ceae0a317b6c36",
+      "name": "User1",
+      "status": "active",
+      "real_trading": false,
+      "expires": "",
+      "machines": []
+    },
+    {
+      "key_hash": "664a03070e6510aa090f75b07a4feb4834f84a9d56a3c43bafc873641560e539",
+      "name": "User2",
+      "status": "active",
+      "real_trading": false,
+      "expires": "",
+      "machines": []
+    },
+    {
+      "key_hash": "b6797dfa3b4b8b9ecc9f880fc615c61fb8ae854cd92e18233b98372e3a30d550",
+      "name": "User3",
+      "status": "active",
+      "real_trading": false,
+      "expires": "",
+      "machines": []
+    },
+    {
+      "key_hash": "a68775aa0c19099c7c7b69a4ebf80fcd6f7103ce52740ed7856fbedae84cf7e0",
+      "name": "User4",
+      "status": "active",
+      "real_trading": false,
+      "expires": "",
+      "machines": []
+    },
+    {
+      "key_hash": "b1cbbd4ca5ae5da4d1975ff3ba53792d1cad17ffa96040465860175759af68d4",
+      "name": "User5",
+      "status": "active",
+      "real_trading": false,
+      "expires": "",
+      "machines": []
+    },
+    {
+      "key_hash": "109c61e5393b5b75cee59858d8c5dfda8cd614d3be28973993757b1e1cf22cb9",
+      "name": "User6",
+      "status": "active",
+      "real_trading": false,
+      "expires": "",
+      "machines": []
+    },
+    {
+      "key_hash": "2c856d8e1baa775009ce814f7f039a74aa6d4f748ad3449ff60835bcae5608bd",
+      "name": "User7",
+      "status": "active",
+      "real_trading": false,
+      "expires": "",
+      "machines": []
+    },
+    {
+      "key_hash": "032d29222d1ba05df54ec9d12e032857f26288b445fab0211323d21002f87d7a",
+      "name": "User8",
+      "status": "active",
+      "real_trading": false,
+      "expires": "",
+      "machines": []
+    },
+    {
+      "key_hash": "4c5833c9c481bc542d87f178ea04e2d8251f8515ac87898af52710e5debb31ad",
+      "name": "User9",
+      "status": "active",
+      "real_trading": false,
+      "expires": "",
+      "machines": []
+    },
+    {
+      "key_hash": "8c79e709fea6d06d58caa29efdeaf0832201535f9c9a300b671ff9d146353f51",
+      "name": "User10",
+      "status": "active",
+      "real_trading": false,
+      "expires": "",
+      "machines": []
+    }
+  ]
+}
