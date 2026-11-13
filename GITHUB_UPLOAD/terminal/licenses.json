@@ -12,7 +12,7 @@
     {
       "key_hash": "664a03070e6510aa090f75b07a4feb4834f84a9d56a3c43bafc873641560e539",
       "name": "User2",
-      "status": "revoked",
+      "status": "active",
       "real_trading": false,
       "expires": "",
       "machines": ["0D4C-24F9-309D-19AD"]
