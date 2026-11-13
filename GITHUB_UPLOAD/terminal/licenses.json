@@ -15,7 +15,7 @@
       "status": "active",
       "real_trading": false,
       "expires": "",
-      "machines": [0D4C-24F9-309D-19AD]
+      "machines": ["0D4C-24F9-309D-19AD"]
     },
     {
       "key_hash": "b6797dfa3b4b8b9ecc9f880fc615c61fb8ae854cd92e18233b98372e3a30d550",
